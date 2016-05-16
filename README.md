@@ -21,3 +21,9 @@ Nesse guia buscamos reunir guias e padronizações para as principais linguagens
 
 * [Guia de Estilos do C#](StyleGuide-CS.md): nesse guia reunimos os padrões de estilos recomendados pela Caeno para escrita de código na linguagem C#.
 * [Glossário](Glossary.md): guia com os termos e convenções comuns a maioria das linguagens de programação.
+
+## Referencias
+Referências utilizadas na elaboração deste conteúdo.
+
+* [Capitalization Styles (MSDN)](https://msdn.microsoft.com/en-us/library/x2dbyw72.aspx): Estilos de capitalização aplicados pela Microsoft no .NET Framework.
+* [Swift Style Guide (Ray Wenderlich)](https://github.com/raywenderlich/swift-style-guide/blob/master/README.markdown#naming): Guia de estilos do site Ray Wenderlich, uma das inspirações desse material.
